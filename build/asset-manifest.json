@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AirBnb-Experiences/static/css/main.0b157d7c.css",
+    "main.js": "/AirBnb-Experiences/static/js/main.b52072c9.js",
+    "index.html": "/AirBnb-Experiences/index.html",
+    "main.0b157d7c.css.map": "/AirBnb-Experiences/static/css/main.0b157d7c.css.map",
+    "main.b52072c9.js.map": "/AirBnb-Experiences/static/js/main.b52072c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b157d7c.css",
+    "static/js/main.b52072c9.js"
+  ]
+}
